@@ -9,7 +9,7 @@
 
 	<?php
 
-require_once '../11_20/ConnectDB.php';
+require_once '../11.20/connectDB.php';
 require_once 'myFun.php';
 
 ?>
