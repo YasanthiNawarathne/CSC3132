@@ -10,7 +10,6 @@
 
     <a href="getTable.php">Gettable</a><br>
     <a href="printTable.php">printtable</a><br>
-
     
 </body>
 </html>
