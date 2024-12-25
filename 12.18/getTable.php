@@ -6,8 +6,7 @@
 </head>
 <body>
 
-	<?php
-
+<?php
 
 require_once 'dbconf.php';
 require_once 'myfunc.php';
